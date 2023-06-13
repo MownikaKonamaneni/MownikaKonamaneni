@@ -3,9 +3,7 @@
 <!--
 **MownikaKonamaneni/MownikaKonamaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a graduate student Data Science at [**Florida Polytechnic University**](https://floridapoly.edu/), Florida and currently working in [**Denken Solutions**](https://denkensolutions.com/) as Data Analyst. 
-
-In past, I have worked with [**ADP India**](https://in.adp.com/) and [**Capgemini**](https://www.capgemini.com/) as Data Analyst. 
+I'm a graduate student Data Science at [**Florida Polytechnic University**](https://floridapoly.edu/), Florida and currently working in [**Denken Solutions**](https://denkensolutions.com/) as Data Analyst. In past, I have worked with [**ADP India**](https://in.adp.com/) and [**Capgemini**](https://www.capgemini.com/) as Data Analyst. 
 
 ### Things I'm good at :fire:
 
