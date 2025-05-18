@@ -19,7 +19,7 @@ In past, I have worked with [**ADP India**](https://in.adp.com/) and [**Capgemin
 
 ### I am open to:
 
-- work professionally in the fields of Data Science and Engineering as an Intern or Part-time or Full-time
+- work professionally in the fields of Data Science and Data Engineering as an Intern or Part-time or Full-time
 - any collobration work,
 - machine learning projects(development)
 
