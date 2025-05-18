@@ -5,13 +5,13 @@
 -->
 I'm a graduate student in Data Science at [**Florida Polytechnic University**](https://floridapoly.edu/), Florida and currently working in [**Denken Solutions**](https://denkensolutions.com/) as Data Analyst. 
 
-In past, I have worked with [**ADP India**](https://in.adp.com/) and [**Capgemini**](https://www.capgemini.com/) as Data Analyst. 
+In past, I have worked with [**ADP India**](https://in.adp.com/) and [**Capgemini**](https://www.capgemini.com/) as a Data Analyst. 
 
 ### Things I'm good at :fire:
 
 **Domain:** Data Visualization, Natural Language Processing, Machine Learning, Deep Learning, Data Science, Data mining and Text mining.
 
-**Languages:**  R, Python, SQL, tableau, HTML, CSS, JavaScript, SAP ABAP.
+**Languages:**  R, Python, SQL, Power BI, tableau, HTML, CSS, JavaScript, SAP ABAP.
 
 **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, Lambda Functions, SciPy, Matplotlib, PyTorch, Keras, Regex.
 
